@@ -1,0 +1,13 @@
+E:\PictureAnalog\PictureAnalog\bin\Debug\PictureAnalog.exe
+E:\PictureAnalog\PictureAnalog\bin\Debug\PictureAnalog.pdb
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\MainWindow.baml
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\MainWindow.g.cs
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\App.g.cs
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\PictureAnalog_MarkupCompile.cache
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\PictureAnalog.g.resources
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\PictureAnalog.Properties.Resources.resources
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\PictureAnalog.exe
+E:\PictureAnalog\PictureAnalog\obj\x86\Debug\PictureAnalog.pdb
